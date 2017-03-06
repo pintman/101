@@ -1,0 +1,12 @@
+Code conventions
+
+* Regeln, um die Zusammenarbeit mit Programmierern zu erleichtern.
+* Für Python in PEP8 spezifiziert.
+
+Wichtige Regeln:
+
+* Sprechende Bezeichner
+* Klassennamen groß geschrieben
+* Leerzeichen (keine Tabulatoren) für Einrückungen
+* Methoden so schreiben: mache_etwas_gutes()
+* Maximal 79 Zeichen pro Zeile
