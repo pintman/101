@@ -91,3 +91,4 @@ ENV/
 # temporary files
 prog/datei.txt
 *~
+prog/datenbank.db
