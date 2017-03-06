@@ -92,3 +92,4 @@ ENV/
 prog/datei.txt
 *~
 prog/datenbank.db
+dab/db.sqlite
